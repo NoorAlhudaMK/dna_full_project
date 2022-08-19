@@ -1,16 +1,6 @@
 # dna_full_project
 
-A new Flutter project.
+DNA scholarship UI project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/72813143/185558969-c3054991-64ae-4715-b349-67f54a8a2562.jpg)
